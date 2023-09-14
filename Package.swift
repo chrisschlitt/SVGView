@@ -3,7 +3,7 @@
 import PackageDescription
 
 let package = Package(
-	name: "SVGView",
+	name: "SVGViewWatch",
 	platforms: [
 		.macOS(.v11),
         .iOS(.v14),
